@@ -1,0 +1,31 @@
+{
+  "name": "prueba_practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsmanPL/Prueba_Practica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsmanPL/Prueba_Practica/issues"
+  },
+  "homepage": "https://github.com/OsmanPL/Prueba_Practica#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "msnodesqlv8": "^2.4.4",
+    "mssql": "^7.3.0",
+    "promise": "^8.1.0",
+    "rest-mssql-nodejs": "^1.0.10",
+    "tedious": "^14.0.0"
+  }
+}
